@@ -1,7 +1,7 @@
 {
   "name": "com-reqbeat-hiring-signals",
   "description": "Find companies hiring for a role and geo, qualify them, and watch them for changes.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "skills": [
     "."
   ],

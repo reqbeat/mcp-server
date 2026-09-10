@@ -3,7 +3,7 @@
   "name": "com.reqbeat/hiring-signals",
   "title": "Reqbeat Hiring Signals",
   "description": "Find companies hiring for a role and geo, qualify them, and watch them for changes.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://reqbeat.com/mcp/",
   "icons": [
     {
@@ -14,6 +14,10 @@
       ]
     }
   ],
+  "repository": {
+    "url": "https://github.com/reqbeat/mcp-server",
+    "source": "github"
+  },
   "remotes": [
     {
       "type": "streamable-http",
