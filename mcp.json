@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "com-reqbeat-hiring-signals": {
+      "url": "https://mcp.reqbeat.com/mcp",
+      "headers": {
+        "X-API-Key": "${REQBEAT_API_KEY}"
+      }
+    }
+  }
+}

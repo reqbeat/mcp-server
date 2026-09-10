@@ -1,0 +1,21 @@
+{
+  "name": "com-reqbeat-hiring-signals",
+  "description": "Find companies hiring for a role and geo, qualify them, and watch them for changes.",
+  "version": "1.0.1",
+  "skills": [
+    "."
+  ],
+  "variables": {
+    "type": "object",
+    "properties": {
+      "REQBEAT_API_KEY": {
+        "type": "string",
+        "title": "Reqbeat Hiring Signals API key",
+        "description": "Reqbeat plane API key"
+      }
+    },
+    "required": [
+      "REQBEAT_API_KEY"
+    ]
+  }
+}
