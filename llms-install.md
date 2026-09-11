@@ -20,8 +20,8 @@ locally; there is no package to install and no process to supervise.
 2. **Full access.** Get a key at https://reqbeat.com (free tier, no card) and add
    `"headers": {"X-API-Key": "<your key>"}` to that same entry.
 
-3. **Verify.** Call `tools/list` — it answers with 11 tools:
-   `is_hiring`, `get_open_reqs`, `hiring_pulse`, `who_is_hiring_for`, `search_jobs`, `get_role`, `pre_action_brief`, `get_changes`, `register_webhook`, `watch_company`, `write_outcome`.
+3. **Verify.** Call `tools/list` — it answers with 14 tools:
+   `is_hiring`, `get_open_reqs`, `hiring_pulse`, `who_is_hiring_for`, `search_jobs`, `get_role`, `pre_action_brief`, `get_changes`, `find_company`, `register_webhook`, `watch_company`, `list_watches`, `cancel_watch`, `write_outcome`.
 
 ## Troubleshooting
 

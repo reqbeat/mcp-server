@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "com-reqbeat-hiring-signals": {
+      "type": "http",
+      "url": "https://mcp.reqbeat.com/mcp"
+    }
+  }
+}

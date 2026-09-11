@@ -1,0 +1,26 @@
+{
+  "name": "reqbeat",
+  "version": "1.1.2",
+  "description": "Find companies hiring for a role and geo, qualify them, and watch them for changes.",
+  "author": {
+    "name": "Reqbeat",
+    "email": "support@reqbeat.com",
+    "url": "https://reqbeat.com"
+  },
+  "homepage": "https://reqbeat.com/mcp/",
+  "repository": "https://github.com/reqbeat/mcp-server",
+  "license": "MIT",
+  "keywords": [
+    "hiring-signals",
+    "lead-generation",
+    "recruiting",
+    "gtm"
+  ],
+  "mcpServers": {
+    "com-reqbeat-hiring-signals": {
+      "type": "http",
+      "url": "https://mcp.reqbeat.com/mcp"
+    }
+  },
+  "skills": "./skills/"
+}
