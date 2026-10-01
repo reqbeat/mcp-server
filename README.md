@@ -89,10 +89,7 @@ and no people** — this plane sells hiring demand, not person records.
 
 ## Links
 
-- Registry: `com.reqbeat/hiring-signals` on the
-  [official MCP registry](https://registry.modelcontextprotocol.io/v0/servers?search=reqbeat)
-- [Smithery](https://smithery.ai/server/reqbeat/hiring-signals) ·
-  [Cursor](https://cursor.com/marketplace/reqbeat)
+- Listed as `com.reqbeat/hiring-signals` on: [Official MCP registry](https://registry.modelcontextprotocol.io/v0/servers?search=reqbeat) · [Smithery](https://smithery.ai/server/reqbeat/hiring-signals) · [Glama](https://glama.ai/mcp/connectors/com.reqbeat/hiring-signals)
 - Support: <support@reqbeat.com>
 - License: MIT (this repo). The hosted service is governed by
   <https://reqbeat.com/terms>.
